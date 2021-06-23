@@ -1,4 +1,4 @@
 # Unique-font
-[Des codes des signes des armes](descodesdessignesdesarmes.eleonorefines.fr)
+[Des codes des signes des armes](https://descodesdessignesdesarmes.eleonorefines.fr/)
 
-[Unique](unique.eleonorefines.fr)
+[Unique](http://unique.eleonorefines.fr/)
